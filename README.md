@@ -1,40 +1,34 @@
-Mortgage Repayment Calculator
-This is a responsive mortgage repayment calculator built as part of a frontend practice project. It allows users to enter loan amount, interest rate, and repayment term to calculate their monthly and total repayments.
+# Mortgage Repayment Calculator
 
-🔗 Live Site: mortgage-repayment-calculator-show.netlify.app
+This is a responsive mortgage repayment calculator that allows users to input loan details and receive real-time repayment information. The project includes form validation, error handling, and a dynamic user interface.
 
-Features
-Dynamic calculation of monthly and total repayments
+🔗 **Live Site:** [mortgage-repayment-calculator-show.netlify.app](https://mortgage-repayment-calculator-show.netlify.app)
 
-Responsive layout for desktop and mobile
+## Features
 
-Input validation with user feedback
+- Responsive layout for all screen sizes
+- Form input validation and error feedback
+- Real-time monthly and total repayment calculations
+- Custom UI styling and interaction states
 
-Custom styling for form elements
+## Built With
 
-Interactive and accessible UI
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-Built With
-HTML5
+## Getting Started
 
-CSS3
-
-JavaScript (Vanilla)
-
-Getting Started
 To run this project locally:
 
-Clone the repo
+1. Clone the repository  
+   `git clone https://github.com/Shodehinde777/mortgage-repayment-calculator.git`
+2. Open `index.html` in your browser
 
-bash
-Copy
-Edit
-git clone https://github.com/Shodehinde777/mortgage-repayment-calculator.git
-Open index.html in your browser
+## Challenge Source
 
-Challenge Source
-This project is inspired by a self-practice frontend development challenge focused on form handling and interactive UI.
+This project is based on a custom Frontend Mentor-style challenge and built as part of a JavaScript learning path.
 
-Acknowledgements
-Thanks to resources like Frontend Mentor for design inspiration and structure.
+## Acknowledgements
 
+Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for inspiring structured front-end projects.
