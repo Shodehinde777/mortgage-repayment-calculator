@@ -6,7 +6,7 @@ This is a responsive mortgage repayment calculator that allows users to input lo
 
 ## Features
 
-- Responsive layout for all screen sizes
+- Mobile-first responsive layout
 - Form input validation and error feedback
 - Real-time monthly and total repayment calculations
 - Custom UI styling and interaction states
